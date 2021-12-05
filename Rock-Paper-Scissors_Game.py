@@ -210,12 +210,6 @@ while menuSelection != "3":
 
 input(" \n Thanks for playing! Press any key to exit")
 
-# Hello Professor, I don't quite understand why the while loop will not stop iterating when the expression returns false. If you know what the error is
-# in my code, please leave me a comment on this when you grade it if possible. I know you are probably really busy, but I would love to understand what's
-# going wrong. I made a fix for it as you will see with a final if statement in each function. I honestly hated doing that but It was the only way I could
-# get it to work correctly
 
-# Anyways hope you enjoy my game and I really enjoyed your class this semester. I learned alot and really appreciate your teaching. The course was awesome!
-# Thanks and happy holidays!
 
 
